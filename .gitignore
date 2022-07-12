@@ -2,6 +2,7 @@
 .aws
 awsset
 
-# Ignore any terraform variables or state files
+# Ignore any terraform variables, state files or .terraform folders
 *.tfvars
 *.tfstate
+.terraform
