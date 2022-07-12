@@ -6,3 +6,4 @@ awsset
 *.tfvars
 *.tfstate
 .terraform
+.terraform.lock.hcl
