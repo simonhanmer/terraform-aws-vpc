@@ -1,0 +1,7 @@
+# ignore awsset and .aws folder *personal hacks to get AWS CLI credentials
+.aws
+awsset
+
+# Ignore any terraform variables or state files
+*.tfvars
+*.tfstate
